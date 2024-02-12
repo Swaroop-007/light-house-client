@@ -1,0 +1,4 @@
+
+.cell-text:focus{
+    outline: none !important;
+}

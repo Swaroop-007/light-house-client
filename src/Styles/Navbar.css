@@ -1,0 +1,14 @@
+.navbar-container{
+    height:60px;
+    background-color: rgb(120, 231, 134);
+   overflow: hidden;
+    
+  
+}
+.wrapper{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+    font-weight: 600;
+}
